@@ -6,9 +6,9 @@ color:
   saturation: 0.5269317200873047
   rhythmicContrast: 0.4753111954778433
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#51604B'
-    - '#253020'
-    - '#7C8777'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: 'brightstory co:LAB'
