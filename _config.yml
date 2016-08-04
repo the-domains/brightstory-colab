@@ -1,0 +1,14 @@
+layout_spectrum: 0.04201713646762073
+typography_spectrum: 0.40145460539497435
+color:
+  brandStrength: 0.037528499495238066
+  lightness: 0.6206115607637912
+  saturation: 0.5269317200873047
+  rhythmicContrast: 0.4753111954778433
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#51604B'
+    - '#253020'
+    - '#7C8777'
+name: 'brightstory co:LAB'
